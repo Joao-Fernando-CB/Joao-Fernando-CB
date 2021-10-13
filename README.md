@@ -15,4 +15,4 @@
 
 Gostaria que você pudesse disfrutar dos meus repositórioss
 
-Entre no meu linktree: <a src="https://linktr.ee/JoaoFernando2299" target="_blank" >Meu linktree</a>
+Entre no meu linktree: <a href="https://linktr.ee/JoaoFernando2299" target="_blank" >Meu linktree</a>
