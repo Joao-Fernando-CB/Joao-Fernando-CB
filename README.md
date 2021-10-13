@@ -10,4 +10,6 @@
   <img align="center" alt="Brodoloeins-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Brodoloeins-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Brodoloeins-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Brodoloeins-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Node/Node-original.svg">
+  <img align="center" alt="Brodoloeins-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/PHP/php-original.svg">
 </div>
