@@ -13,7 +13,6 @@
   <img align="center" alt="Brodoloeins-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
 
-\n
 
 Gostaria que você pudesse disfrutar dos meus repositórioss
 
