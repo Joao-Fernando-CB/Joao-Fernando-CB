@@ -12,7 +12,7 @@
   <img align="center" alt="Brodoloeins-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Brodoloeins-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
-
+<br>
 
 Gostaria que você pudesse disfrutar dos meus repositórioss
 
