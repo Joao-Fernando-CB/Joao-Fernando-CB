@@ -1,4 +1,4 @@
-## Olá meu nome é João Fernando e eu sou um intusiasta de programação
+## Olá meu nome é João Fernando e eu sou um programador em busca de oportunidades
 <div align="center">
   <a href="https://github.com/Brodoloeins">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Brodoloeins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
