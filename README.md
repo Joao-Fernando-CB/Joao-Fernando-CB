@@ -14,6 +14,6 @@
 </div>
 <br>
 
-Gostaria que você pudesse disfrutar dos meus repositórioss
+Gostaria que vocês pudessem disfrutar dos meus repositórioss
 
 Entre no meu linktree: <a href="https://linktr.ee/JoaoFernando2299">Meu Linktree</a>
