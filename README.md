@@ -1,7 +1,7 @@
 ## Olá meu nome é João Fernando e eu sou um programador em busca de oportunidades
 <div align="center">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Brodoloeins&show_icons=true&theme=Vasco&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brodoloeins&layout=compact&langs_count=8&theme=Vasco"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Brodoloeins&show_icons=true&theme=black&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brodoloeins&layout=compact&langs_count=8&theme=black"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Brodoloeins-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
