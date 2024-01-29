@@ -2,7 +2,7 @@
 <div align="center">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Brodoloeins&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brodoloeins&langs_count=8&theme=material-palenight&layout=compact"/>
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Brodoloeins&repo=Elixir-NLW06 &theme=material-palenight"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Brodoloeins&repo=Elixir-NLW06&theme=material-palenight"/>
   
 </div>
 <div style="display: inline_block"><br>
