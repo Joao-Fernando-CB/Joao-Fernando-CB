@@ -1,7 +1,7 @@
 ### Olá meu nome é João Fernando e eu sou um programador backend em busca de oportunidades
 <hr>
 <div align="center">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brodoloeins&langs_count=8&theme=material-palenight&layout=compact"/>
+  <img height="165em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brodoloeins&langs_count=8&theme=material-palenight&layout=compact"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Brodoloeins-Js" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
