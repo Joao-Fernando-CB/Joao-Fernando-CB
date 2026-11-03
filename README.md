@@ -4,7 +4,7 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@joaofernando818)
 
 [![GitHub stats](https://github-stats-extended.vercel.app/api?username=joao-fernando-cb&theme=dracula)]
-![Principais linguagens](https://github-stats-extended.vercel.app/api/top-langs/?username=joao-fernando-cb&layout=donut&theme=dracula&langs_count=9)
+![Principais linguagens](https://github-stats-extended.vercel.app/api/top-langs/?username=joao-fernando-cb&layout=compact&theme=dracula&langs_count=9)
 
 ## Tecnologias que mais uso no dia a dia
 
